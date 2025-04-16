@@ -58,11 +58,5 @@ Found a bug or want to add enhancements? Pull requests are welcome!
 
 ---
 
-## 🧑‍💻 Author
-Made with 🧠 by [Shreyash](https://github.com/shreyash0019)
 
----
-
-## 📄 License
-This project is licensed under the [MIT License](LICENSE).
 
